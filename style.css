@@ -1,0 +1,29 @@
+body {
+	background-image: url("paper.jpg");
+	background-color: #ffffff;
+	color: #5050ff;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+	border-width: 1px;
+	border-color: #5050ff;
+	border-style: solid;
+}
+
+a {
+	font-size: 1.1em;
+}
+
+a:link {
+	color: #ff4040;
+}
+
+a:visited {
+	color: #000000;
+}
+
+p {
+	margin-top: 1.75em;
+}
